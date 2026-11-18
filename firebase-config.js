@@ -1,13 +1,12 @@
-// Cole aqui a configuração do seu app web do Firebase
-// (Firebase > Configurações do projeto > Seus apps > Configuração do SDK).
+// Configuração do app web do Firebase (projeto hy-cyber-videos).
 // Esses valores não são secretos: a proteção vem das regras em firestore.rules.
 export const firebaseConfig = {
-  apiKey: "COLE_AQUI",
-  authDomain: "COLE_AQUI.firebaseapp.com",
-  projectId: "COLE_AQUI",
-  storageBucket: "COLE_AQUI.appspot.com",
-  messagingSenderId: "COLE_AQUI",
-  appId: "COLE_AQUI"
+  apiKey: "AIzaSyBxOuRdZ3aBVgXFT7rhnojqeM_6QEM_-jk",
+  authDomain: "hy-cyber-videos.firebaseapp.com",
+  projectId: "hy-cyber-videos",
+  storageBucket: "hy-cyber-videos.firebasestorage.app",
+  messagingSenderId: "708791910446",
+  appId: "1:708791910446:web:e73f6bff6bb156f0de1fbf"
 };
 
 // Nome que aparece no topo do app.
